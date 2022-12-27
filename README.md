@@ -11,6 +11,8 @@ If those requirements are met, all you need to do is copy the text after "EXECUT
 
 Any questions go to DevFish. You can contact me via discord.
 
+Click the link below to join my server
+
 https://discord.io/BIGfisHinc
 
 My Website:
