@@ -7,7 +7,9 @@ Each .css file has an info tab at the beginning of the file.
 
 "EXECUTION REQUIREMENTS" shows what software you need to execute the code.
 
-If those requirements are met, all you need to do is copy the text after "EXECUTION STRING" and paste it into whatever software is required to inject the code
+If those requirements are met, all you need to do is copy the text after "EXECUTION STRING" and paste it into whatever software is required to inject the code.
+
+Make sure you paste it BEFORE any other lines of code BUT AFTER any @charset declarations (such as @name , @version , @author , etc) or it will not work
 
 Any questions go to DevFish. You can contact me via discord.
 
