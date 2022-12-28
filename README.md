@@ -2,7 +2,7 @@
 Source for my Dark Magenta themes, which I have coded for various websites and applications
 
 ## How To Install (BetterDiscord Theme)
-1. Go to https://github.com/DevFishh/Dark-Magenta-Themes/releases
+1. Go to https://github.com/DevFishh/Dark-Magenta-Themes/releases/tag/BetterDiscord
 2. Find "BetterDiscord v2.0" (this is latest version and should be the only version there)
 3. Under "Assets" click "DarkMagenta.theme.css" This should start the download process. 
 4. After you download the file, move it into the BetterDiscord Themes folder.
